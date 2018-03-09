@@ -1,11 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Link for this deployment
->https://hardcore-ritchie-b5ca43.netlify.com/
-
-
-Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
+https://trusting-curran-82bb76.netlify.com
 
 ## Table of Contents
 
